@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tatcor
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...Github
-- 💞️ I’m looking to collaborate on ...crmsystemscommit
+- 💞️ I’m looking to collaborate on ...crmsystemscommit:initiate
 - 
 - 📫 How to reach me ...8644926487
 - 😄 Pronouns: ...
