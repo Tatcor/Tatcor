@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @Tatcor
+My project- 
+Terminal-ws👋 Hi, I’m @Tatcor
+Got version
+Got configure--global Tatcor
+Got config-- global email Got init- main
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...Github
 - 💞️ I’m looking to collaborate on ...crmsystemscommit:initiate
