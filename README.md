@@ -1,8 +1,13 @@
 My project- 
 Terminal-ws👋 Hi, I’m @Tatcor
-Got version
-Got configure--global Tatcor
-Got config-- global email Got init- main
+Git version
+Got configure--global Tatcorclear
+clear
+
+clear
+
+Git 
+config-- global email Git init- main
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...Github
 - 💞️ I’m looking to collaborate on ...crmsystemscommit:initiate
@@ -16,4 +21,5 @@ Got config-- global email Got init- main
 <!---
 Tatcor/Tatcor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->comnand
+Git-- version
+>comnand
